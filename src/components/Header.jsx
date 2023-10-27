@@ -34,6 +34,11 @@ const Header = () => {
         </p>
       </section>
 
+      <a href="https://drive.google.com/file/d/1-7K5PmxW4e8vjCOenXh5_NF80WEkOeFg/view?usp=sharing" 
+      className=" border-b-2 flex justify-center pt-8 border-green-700 
+      pb-1 text-green-600 text-xl font-semibold capitalize">
+        click to see my CV</a>
+
     </section>
 
 
